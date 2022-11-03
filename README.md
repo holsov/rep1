@@ -1,2 +1,2 @@
-# rep1
-CAH
+# seminari_rep
+Siia ilmuvad seminari failid.
